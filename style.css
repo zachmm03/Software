@@ -1,0 +1,42 @@
+body {
+    background-color:yellow;
+}
+
+a {
+  text-decoration: none;
+  background-color:blue;
+  color:black;
+}
+
+a:hover {
+  background-color:lightblue
+}
+
+#HomeBody {
+    background-color:red;
+}
+
+#links {
+    background-color:orange;
+}
+
+.center {
+  margin: 0 auto;
+  margin-left: 40%;
+}
+
+h1{
+  text-align: center;
+  padding: 5px;
+  background-color: orange;
+  display: inline-block;
+  border-radius: 10px;
+}
+
+#OtherBody {
+  background-color:lightblue;
+}
+
+#footer {
+  background-color:orange;
+}
